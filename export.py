@@ -11,7 +11,7 @@ def exports(data):
                   for family, scale in data['scales'].items() for stop, value in scale.items()}
     primitives.update(data['fills'])
     aliases = data['anchorAliases']
-    css = f'/* Thinkinghaus palette v{data["version"]}. Original colors are neutral-scale aliases. */\n:root {{\n'
+    css = f'/* Thinkinghaus palette v{data["version"]}. */\n:root {{\n'
     css += ''.join(f'  --th-{name}: {value};\n' for name, value in primitives.items())
     css += ''.join(f'  --th-{name}: var(--th-{ref});\n' for name, ref in aliases.items()) + '}\n'
     for mode, roles in data['modes'].items():
