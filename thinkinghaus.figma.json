@@ -2,177 +2,177 @@
   "primitives": {
     "palette": {
       "neutral-0": {
-        "value": "#F1EDE3",
+        "value": "#F4EDDF",
         "type": "color",
         "description": "CSS: var(--th-neutral-0)"
       },
       "neutral-50": {
-        "value": "#E8E4D9",
+        "value": "#EBE4D5",
         "type": "color",
         "description": "CSS: var(--th-neutral-50)"
       },
       "neutral-100": {
-        "value": "#DFDAD0",
+        "value": "#E1DACC",
         "type": "color",
         "description": "CSS: var(--th-neutral-100)"
       },
       "neutral-150": {
-        "value": "#D7D2CA",
+        "value": "#D9D2C6",
         "type": "color",
         "description": "CSS: var(--th-neutral-150)"
       },
       "neutral-200": {
-        "value": "#CECBC3",
+        "value": "#D0CBBF",
         "type": "color",
         "description": "CSS: var(--th-neutral-200)"
       },
       "neutral-300": {
-        "value": "#BDBCB7",
+        "value": "#BFBCB3",
         "type": "color",
         "description": "CSS: var(--th-neutral-300)"
       },
       "neutral-400": {
-        "value": "#ADADAA",
+        "value": "#AFADA6",
         "type": "color",
         "description": "CSS: var(--th-neutral-400)"
       },
       "neutral-500": {
-        "value": "#9A9285",
+        "value": "#9C9281",
         "type": "color",
         "description": "CSS: var(--th-neutral-500)"
       },
       "neutral-600": {
-        "value": "#7C766B",
+        "value": "#7E7667",
         "type": "color",
         "description": "CSS: var(--th-neutral-600)"
       },
       "neutral-700": {
-        "value": "#605B51",
+        "value": "#625B4D",
         "type": "color",
         "description": "CSS: var(--th-neutral-700)"
       },
       "neutral-800": {
-        "value": "#454139",
+        "value": "#474135",
         "type": "color",
         "description": "CSS: var(--th-neutral-800)"
       },
       "neutral-850": {
-        "value": "#38352E",
+        "value": "#3A352A",
         "type": "color",
         "description": "CSS: var(--th-neutral-850)"
       },
       "neutral-900": {
-        "value": "#2C2923",
+        "value": "#2E2920",
         "type": "color",
         "description": "CSS: var(--th-neutral-900)"
       },
       "neutral-950": {
-        "value": "#23201B",
+        "value": "#252018",
         "type": "color",
         "description": "CSS: var(--th-neutral-950)"
       },
       "neutral-1000": {
-        "value": "#1A1814",
+        "value": "#1C1811",
         "type": "color",
         "description": "CSS: var(--th-neutral-1000)"
       },
       "clay-50": {
-        "value": "#F3E1DD",
+        "value": "#F5E1D9",
         "type": "color",
         "description": "CSS: var(--th-clay-50)"
       },
       "clay-100": {
-        "value": "#F0D5CE",
+        "value": "#F2D5CA",
         "type": "color",
         "description": "CSS: var(--th-clay-100)"
       },
       "clay-150": {
-        "value": "#EDC9C0",
+        "value": "#EFC9BC",
         "type": "color",
         "description": "CSS: var(--th-clay-150)"
       },
       "clay-200": {
-        "value": "#EABDB1",
+        "value": "#ECBCAD",
         "type": "color",
         "description": "CSS: var(--th-clay-200)"
       },
       "clay-300": {
-        "value": "#DDA091",
+        "value": "#DF9F8C",
         "type": "color",
         "description": "CSS: var(--th-clay-300)"
       },
       "clay-400": {
-        "value": "#D08471",
+        "value": "#D2836C",
         "type": "color",
         "description": "CSS: var(--th-clay-400)"
       },
       "clay-500": {
-        "value": "#B96652",
+        "value": "#BB654D",
         "type": "color",
         "description": "CSS: var(--th-clay-500)"
       },
       "clay-600": {
-        "value": "#99422D",
+        "value": "#9B4127",
         "type": "color",
         "description": "CSS: var(--th-clay-600)"
       },
       "clay-700": {
-        "value": "#783120",
+        "value": "#7A301A",
         "type": "color",
         "description": "CSS: var(--th-clay-700)"
       },
       "clay-800": {
-        "value": "#5B251A",
+        "value": "#5C2415",
         "type": "color",
         "description": "CSS: var(--th-clay-800)"
       },
       "clay-850": {
-        "value": "#4B2118",
+        "value": "#4C2013",
         "type": "color",
         "description": "CSS: var(--th-clay-850)"
       },
       "clay-900": {
-        "value": "#3B1D16",
+        "value": "#3C1C12",
         "type": "color",
         "description": "CSS: var(--th-clay-900)"
       },
       "clay-950": {
-        "value": "#2A1C18",
+        "value": "#2C1C15",
         "type": "color",
         "description": "CSS: var(--th-clay-950)"
       },
       "ochre-50": {
-        "value": "#ECE5D8",
+        "value": "#EEE5D4",
         "type": "color",
         "description": "CSS: var(--th-ochre-50)"
       },
       "ochre-100": {
-        "value": "#E5DBC7",
+        "value": "#E7DBC3",
         "type": "color",
         "description": "CSS: var(--th-ochre-100)"
       },
       "ochre-150": {
-        "value": "#DFD1B6",
+        "value": "#E1D1B1",
         "type": "color",
         "description": "CSS: var(--th-ochre-150)"
       },
       "ochre-200": {
-        "value": "#D8C7A5",
+        "value": "#DAC6A0",
         "type": "color",
         "description": "CSS: var(--th-ochre-200)"
       },
       "ochre-300": {
-        "value": "#C7AC78",
+        "value": "#C9AB73",
         "type": "color",
         "description": "CSS: var(--th-ochre-300)"
       },
       "ochre-400": {
-        "value": "#B59249",
+        "value": "#B79142",
         "type": "color",
         "description": "CSS: var(--th-ochre-400)"
       },
       "ochre-500": {
-        "value": "#977631",
+        "value": "#99752A",
         "type": "color",
         "description": "CSS: var(--th-ochre-500)"
       },
@@ -182,329 +182,329 @@
         "description": "CSS: var(--th-ochre-600)"
       },
       "ochre-700": {
-        "value": "#5B4409",
+        "value": "#5D4300",
         "type": "color",
         "description": "CSS: var(--th-ochre-700)"
       },
       "ochre-800": {
-        "value": "#463205",
+        "value": "#473100",
         "type": "color",
         "description": "CSS: var(--th-ochre-800)"
       },
       "ochre-850": {
-        "value": "#3B2B0B",
+        "value": "#3D2A04",
         "type": "color",
         "description": "CSS: var(--th-ochre-850)"
       },
       "ochre-900": {
-        "value": "#30250F",
+        "value": "#32240A",
         "type": "color",
         "description": "CSS: var(--th-ochre-900)"
       },
       "ochre-950": {
-        "value": "#251F14",
+        "value": "#271F10",
         "type": "color",
         "description": "CSS: var(--th-ochre-950)"
       },
       "moss-50": {
-        "value": "#E3E8DD",
+        "value": "#E6E8D9",
         "type": "color",
         "description": "CSS: var(--th-moss-50)"
       },
       "moss-100": {
-        "value": "#D8DFCF",
+        "value": "#DBDFCB",
         "type": "color",
         "description": "CSS: var(--th-moss-100)"
       },
       "moss-150": {
-        "value": "#CCD7C1",
+        "value": "#CFD7BD",
         "type": "color",
         "description": "CSS: var(--th-moss-150)"
       },
       "moss-200": {
-        "value": "#C1CEB3",
+        "value": "#C4CEAF",
         "type": "color",
         "description": "CSS: var(--th-moss-200)"
       },
       "moss-300": {
-        "value": "#AABC96",
+        "value": "#ADBC91",
         "type": "color",
         "description": "CSS: var(--th-moss-300)"
       },
       "moss-400": {
-        "value": "#94AA79",
+        "value": "#97AA74",
         "type": "color",
         "description": "CSS: var(--th-moss-400)"
       },
       "moss-500": {
-        "value": "#718756",
+        "value": "#748751",
         "type": "color",
         "description": "CSS: var(--th-moss-500)"
       },
       "moss-600": {
-        "value": "#4D662A",
+        "value": "#506624",
         "type": "color",
         "description": "CSS: var(--th-moss-600)"
       },
       "moss-700": {
-        "value": "#3C4D25",
+        "value": "#3F4D20",
         "type": "color",
         "description": "CSS: var(--th-moss-700)"
       },
       "moss-800": {
-        "value": "#2C3A1B",
+        "value": "#2E3A16",
         "type": "color",
         "description": "CSS: var(--th-moss-800)"
       },
       "moss-850": {
-        "value": "#27311A",
+        "value": "#293116",
         "type": "color",
         "description": "CSS: var(--th-moss-850)"
       },
       "moss-900": {
-        "value": "#222A18",
+        "value": "#242A14",
         "type": "color",
         "description": "CSS: var(--th-moss-900)"
       },
       "moss-950": {
-        "value": "#1D2118",
+        "value": "#1F2115",
         "type": "color",
         "description": "CSS: var(--th-moss-950)"
       },
       "patina-50": {
-        "value": "#DDE9E7",
+        "value": "#E0E9E3",
         "type": "color",
         "description": "CSS: var(--th-patina-50)"
       },
       "patina-100": {
-        "value": "#CEE1DE",
+        "value": "#D1E1DA",
         "type": "color",
         "description": "CSS: var(--th-patina-100)"
       },
       "patina-150": {
-        "value": "#BFD9D5",
+        "value": "#C2D9D1",
         "type": "color",
         "description": "CSS: var(--th-patina-150)"
       },
       "patina-200": {
-        "value": "#B0D1CC",
+        "value": "#B3D1C8",
         "type": "color",
         "description": "CSS: var(--th-patina-200)"
       },
       "patina-300": {
-        "value": "#91BFB9",
+        "value": "#94BFB5",
         "type": "color",
         "description": "CSS: var(--th-patina-300)"
       },
       "patina-400": {
-        "value": "#72AEA6",
+        "value": "#75AEA2",
         "type": "color",
         "description": "CSS: var(--th-patina-400)"
       },
       "patina-500": {
-        "value": "#558982",
+        "value": "#58897E",
         "type": "color",
         "description": "CSS: var(--th-patina-500)"
       },
       "patina-600": {
-        "value": "#116A62",
+        "value": "#1A6A5E",
         "type": "color",
         "description": "CSS: var(--th-patina-600)"
       },
       "patina-700": {
-        "value": "#214F4A",
+        "value": "#254F47",
         "type": "color",
         "description": "CSS: var(--th-patina-700)"
       },
       "patina-800": {
-        "value": "#193B36",
+        "value": "#1C3B33",
         "type": "color",
         "description": "CSS: var(--th-patina-800)"
       },
       "patina-850": {
-        "value": "#19322F",
+        "value": "#1C322C",
         "type": "color",
         "description": "CSS: var(--th-patina-850)"
       },
       "patina-900": {
-        "value": "#192A27",
+        "value": "#1C2A24",
         "type": "color",
         "description": "CSS: var(--th-patina-900)"
       },
       "patina-950": {
-        "value": "#172221",
+        "value": "#19221E",
         "type": "color",
         "description": "CSS: var(--th-patina-950)"
       },
       "slate-50": {
-        "value": "#E1E6EE",
+        "value": "#E4E6EA",
         "type": "color",
         "description": "CSS: var(--th-slate-50)"
       },
       "slate-100": {
-        "value": "#D4DDE9",
+        "value": "#D7DDE5",
         "type": "color",
         "description": "CSS: var(--th-slate-100)"
       },
       "slate-150": {
-        "value": "#C8D4E3",
+        "value": "#CBD4DF",
         "type": "color",
         "description": "CSS: var(--th-slate-150)"
       },
       "slate-200": {
-        "value": "#BBCBDE",
+        "value": "#BECBDA",
         "type": "color",
         "description": "CSS: var(--th-slate-200)"
       },
       "slate-300": {
-        "value": "#A2B7D1",
+        "value": "#A5B7CD",
         "type": "color",
         "description": "CSS: var(--th-slate-300)"
       },
       "slate-400": {
-        "value": "#89A3C4",
+        "value": "#8CA3C0",
         "type": "color",
         "description": "CSS: var(--th-slate-400)"
       },
       "slate-500": {
-        "value": "#6682A4",
+        "value": "#6982A0",
         "type": "color",
         "description": "CSS: var(--th-slate-500)"
       },
       "slate-600": {
-        "value": "#416084",
+        "value": "#446081",
         "type": "color",
         "description": "CSS: var(--th-slate-600)"
       },
       "slate-700": {
-        "value": "#314967",
+        "value": "#344964",
         "type": "color",
         "description": "CSS: var(--th-slate-700)"
       },
       "slate-800": {
-        "value": "#24374D",
+        "value": "#26374A",
         "type": "color",
         "description": "CSS: var(--th-slate-800)"
       },
       "slate-850": {
-        "value": "#212F41",
+        "value": "#232F3E",
         "type": "color",
         "description": "CSS: var(--th-slate-850)"
       },
       "slate-900": {
-        "value": "#1D2734",
+        "value": "#1F2731",
         "type": "color",
         "description": "CSS: var(--th-slate-900)"
       },
       "slate-950": {
-        "value": "#1B2026",
+        "value": "#1D2023",
         "type": "color",
         "description": "CSS: var(--th-slate-950)"
       },
       "heather-50": {
-        "value": "#EAE3EB",
+        "value": "#ECE3E7",
         "type": "color",
         "description": "CSS: var(--th-heather-50)"
       },
       "heather-100": {
-        "value": "#E2D8E4",
+        "value": "#E4D8E0",
         "type": "color",
         "description": "CSS: var(--th-heather-100)"
       },
       "heather-150": {
-        "value": "#DBCEDD",
+        "value": "#DDCED9",
         "type": "color",
         "description": "CSS: var(--th-heather-150)"
       },
       "heather-200": {
-        "value": "#D3C3D6",
+        "value": "#D5C3D2",
         "type": "color",
         "description": "CSS: var(--th-heather-200)"
       },
       "heather-300": {
-        "value": "#C2ACC6",
+        "value": "#C4ACC2",
         "type": "color",
         "description": "CSS: var(--th-heather-300)"
       },
       "heather-400": {
-        "value": "#B296B7",
+        "value": "#B496B3",
         "type": "color",
         "description": "CSS: var(--th-heather-400)"
       },
       "heather-500": {
-        "value": "#927598",
+        "value": "#947594",
         "type": "color",
         "description": "CSS: var(--th-heather-500)"
       },
       "heather-600": {
-        "value": "#735379",
+        "value": "#755376",
         "type": "color",
         "description": "CSS: var(--th-heather-600)"
       },
       "heather-700": {
-        "value": "#59405E",
+        "value": "#5B405B",
         "type": "color",
         "description": "CSS: var(--th-heather-700)"
       },
       "heather-800": {
-        "value": "#433047",
+        "value": "#453044",
         "type": "color",
         "description": "CSS: var(--th-heather-800)"
       },
       "heather-850": {
-        "value": "#38293B",
+        "value": "#3A2938",
         "type": "color",
         "description": "CSS: var(--th-heather-850)"
       },
       "heather-900": {
-        "value": "#2D222F",
+        "value": "#2F222C",
         "type": "color",
         "description": "CSS: var(--th-heather-900)"
       },
       "heather-950": {
-        "value": "#231E24",
+        "value": "#251E21",
         "type": "color",
         "description": "CSS: var(--th-heather-950)"
       },
       "clay-solid": {
-        "value": "#99422D",
+        "value": "#9B4127",
         "type": "color",
         "description": "CSS: var(--th-clay-solid)"
       },
       "ochre-solid": {
-        "value": "#735A23",
+        "value": "#75591C",
         "type": "color",
         "description": "CSS: var(--th-ochre-solid)"
       },
       "moss-solid": {
-        "value": "#506436",
+        "value": "#536431",
         "type": "color",
         "description": "CSS: var(--th-moss-solid)"
       },
       "patina-solid": {
-        "value": "#386560",
+        "value": "#3B655C",
         "type": "color",
         "description": "CSS: var(--th-patina-solid)"
       },
       "charcoal": {
         "value": "{palette.neutral-1000}",
         "type": "color",
-        "description": "Original Thinkinghaus charcoal; CSS: var(--th-charcoal)"
+        "description": "Thinkinghaus charcoal; CSS: var(--th-charcoal)"
       },
       "ivory": {
         "value": "{palette.neutral-0}",
         "type": "color",
-        "description": "Original Thinkinghaus ivory; CSS: var(--th-ivory)"
+        "description": "Thinkinghaus ivory; CSS: var(--th-ivory)"
       },
       "taupe": {
         "value": "{palette.neutral-500}",
         "type": "color",
-        "description": "Original Thinkinghaus taupe; CSS: var(--th-taupe)"
+        "description": "Thinkinghaus taupe; CSS: var(--th-taupe)"
       },
       "body": {
         "value": "{palette.neutral-400}",
         "type": "color",
-        "description": "Original Thinkinghaus body; CSS: var(--th-body)"
+        "description": "Thinkinghaus body; CSS: var(--th-body)"
       }
     }
   },

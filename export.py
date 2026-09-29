@@ -28,7 +28,7 @@ def exports(data):
     figma = {'primitives': {'palette': {
         name: token(value, f'CSS: var(--th-{name})') for name, value in primitives.items()}}}
     figma['primitives']['palette'].update({
-        name: token('{palette.' + ref + '}', f'Original Thinkinghaus {name}; CSS: var(--th-{name})')
+        name: token('{palette.' + ref + '}', f'Thinkinghaus {name}; CSS: var(--th-{name})')
         for name, ref in aliases.items()})
     for mode, roles in data['modes'].items():
         figma[mode] = {'color': {

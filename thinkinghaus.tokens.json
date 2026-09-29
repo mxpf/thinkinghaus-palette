@@ -1,11 +1,11 @@
 {
-  "version": "0.4",
+  "version": "0.5",
   "source": "https://thinking.haus",
   "anchors": {
-    "charcoal": "#1A1814",
-    "ivory": "#F1EDE3",
-    "taupe": "#9A9285",
-    "body": "#ADADAA"
+    "charcoal": "#1C1811",
+    "ivory": "#F4EDDF",
+    "taupe": "#9C9281",
+    "body": "#AFADA6"
   },
   "families": {
     "core": [
@@ -21,111 +21,111 @@
   },
   "scales": {
     "neutral": {
-      "0": "#F1EDE3",
-      "50": "#E8E4D9",
-      "100": "#DFDAD0",
-      "150": "#D7D2CA",
-      "200": "#CECBC3",
-      "300": "#BDBCB7",
-      "400": "#ADADAA",
-      "500": "#9A9285",
-      "600": "#7C766B",
-      "700": "#605B51",
-      "800": "#454139",
-      "850": "#38352E",
-      "900": "#2C2923",
-      "950": "#23201B",
-      "1000": "#1A1814"
+      "0": "#F4EDDF",
+      "50": "#EBE4D5",
+      "100": "#E1DACC",
+      "150": "#D9D2C6",
+      "200": "#D0CBBF",
+      "300": "#BFBCB3",
+      "400": "#AFADA6",
+      "500": "#9C9281",
+      "600": "#7E7667",
+      "700": "#625B4D",
+      "800": "#474135",
+      "850": "#3A352A",
+      "900": "#2E2920",
+      "950": "#252018",
+      "1000": "#1C1811"
     },
     "clay": {
-      "50": "#F3E1DD",
-      "100": "#F0D5CE",
-      "150": "#EDC9C0",
-      "200": "#EABDB1",
-      "300": "#DDA091",
-      "400": "#D08471",
-      "500": "#B96652",
-      "600": "#99422D",
-      "700": "#783120",
-      "800": "#5B251A",
-      "850": "#4B2118",
-      "900": "#3B1D16",
-      "950": "#2A1C18"
+      "50": "#F5E1D9",
+      "100": "#F2D5CA",
+      "150": "#EFC9BC",
+      "200": "#ECBCAD",
+      "300": "#DF9F8C",
+      "400": "#D2836C",
+      "500": "#BB654D",
+      "600": "#9B4127",
+      "700": "#7A301A",
+      "800": "#5C2415",
+      "850": "#4C2013",
+      "900": "#3C1C12",
+      "950": "#2C1C15"
     },
     "ochre": {
-      "50": "#ECE5D8",
-      "100": "#E5DBC7",
-      "150": "#DFD1B6",
-      "200": "#D8C7A5",
-      "300": "#C7AC78",
-      "400": "#B59249",
-      "500": "#977631",
+      "50": "#EEE5D4",
+      "100": "#E7DBC3",
+      "150": "#E1D1B1",
+      "200": "#DAC6A0",
+      "300": "#C9AB73",
+      "400": "#B79142",
+      "500": "#99752A",
       "600": "#785800",
-      "700": "#5B4409",
-      "800": "#463205",
-      "850": "#3B2B0B",
-      "900": "#30250F",
-      "950": "#251F14"
+      "700": "#5D4300",
+      "800": "#473100",
+      "850": "#3D2A04",
+      "900": "#32240A",
+      "950": "#271F10"
     },
     "moss": {
-      "50": "#E3E8DD",
-      "100": "#D8DFCF",
-      "150": "#CCD7C1",
-      "200": "#C1CEB3",
-      "300": "#AABC96",
-      "400": "#94AA79",
-      "500": "#718756",
-      "600": "#4D662A",
-      "700": "#3C4D25",
-      "800": "#2C3A1B",
-      "850": "#27311A",
-      "900": "#222A18",
-      "950": "#1D2118"
+      "50": "#E6E8D9",
+      "100": "#DBDFCB",
+      "150": "#CFD7BD",
+      "200": "#C4CEAF",
+      "300": "#ADBC91",
+      "400": "#97AA74",
+      "500": "#748751",
+      "600": "#506624",
+      "700": "#3F4D20",
+      "800": "#2E3A16",
+      "850": "#293116",
+      "900": "#242A14",
+      "950": "#1F2115"
     },
     "patina": {
-      "50": "#DDE9E7",
-      "100": "#CEE1DE",
-      "150": "#BFD9D5",
-      "200": "#B0D1CC",
-      "300": "#91BFB9",
-      "400": "#72AEA6",
-      "500": "#558982",
-      "600": "#116A62",
-      "700": "#214F4A",
-      "800": "#193B36",
-      "850": "#19322F",
-      "900": "#192A27",
-      "950": "#172221"
+      "50": "#E0E9E3",
+      "100": "#D1E1DA",
+      "150": "#C2D9D1",
+      "200": "#B3D1C8",
+      "300": "#94BFB5",
+      "400": "#75AEA2",
+      "500": "#58897E",
+      "600": "#1A6A5E",
+      "700": "#254F47",
+      "800": "#1C3B33",
+      "850": "#1C322C",
+      "900": "#1C2A24",
+      "950": "#19221E"
     },
     "slate": {
-      "50": "#E1E6EE",
-      "100": "#D4DDE9",
-      "150": "#C8D4E3",
-      "200": "#BBCBDE",
-      "300": "#A2B7D1",
-      "400": "#89A3C4",
-      "500": "#6682A4",
-      "600": "#416084",
-      "700": "#314967",
-      "800": "#24374D",
-      "850": "#212F41",
-      "900": "#1D2734",
-      "950": "#1B2026"
+      "50": "#E4E6EA",
+      "100": "#D7DDE5",
+      "150": "#CBD4DF",
+      "200": "#BECBDA",
+      "300": "#A5B7CD",
+      "400": "#8CA3C0",
+      "500": "#6982A0",
+      "600": "#446081",
+      "700": "#344964",
+      "800": "#26374A",
+      "850": "#232F3E",
+      "900": "#1F2731",
+      "950": "#1D2023"
     },
     "heather": {
-      "50": "#EAE3EB",
-      "100": "#E2D8E4",
-      "150": "#DBCEDD",
-      "200": "#D3C3D6",
-      "300": "#C2ACC6",
-      "400": "#B296B7",
-      "500": "#927598",
-      "600": "#735379",
-      "700": "#59405E",
-      "800": "#433047",
-      "850": "#38293B",
-      "900": "#2D222F",
-      "950": "#231E24"
+      "50": "#ECE3E7",
+      "100": "#E4D8E0",
+      "150": "#DDCED9",
+      "200": "#D5C3D2",
+      "300": "#C4ACC2",
+      "400": "#B496B3",
+      "500": "#947594",
+      "600": "#755376",
+      "700": "#5B405B",
+      "800": "#453044",
+      "850": "#3A2938",
+      "900": "#2F222C",
+      "950": "#251E21"
     }
   },
   "modes": {
@@ -203,7 +203,7 @@
       "mode": "dark",
       "role": "text",
       "background": "bg",
-      "ratio": 15.16,
+      "ratio": 15.17,
       "target": 4.5,
       "pass": true
     },
@@ -227,7 +227,7 @@
       "mode": "dark",
       "role": "text-body",
       "background": "bg",
-      "ratio": 7.88,
+      "ratio": 7.87,
       "target": 4.5,
       "pass": true
     },
@@ -235,7 +235,7 @@
       "mode": "dark",
       "role": "text-body",
       "background": "surface",
-      "ratio": 7.21,
+      "ratio": 7.2,
       "target": 4.5,
       "pass": true
     },
@@ -243,7 +243,7 @@
       "mode": "dark",
       "role": "text-body",
       "background": "surface-raised",
-      "ratio": 6.44,
+      "ratio": 6.43,
       "target": 4.5,
       "pass": true
     },
@@ -291,7 +291,7 @@
       "mode": "dark",
       "role": "text-faint",
       "background": "surface-raised",
-      "ratio": 3.22,
+      "ratio": 3.21,
       "target": 4.5,
       "pass": false
     },
@@ -299,7 +299,7 @@
       "mode": "dark",
       "role": "clay",
       "background": "bg",
-      "ratio": 6.1,
+      "ratio": 6.06,
       "target": 4.5,
       "pass": true
     },
@@ -307,37 +307,13 @@
       "mode": "dark",
       "role": "clay",
       "background": "surface",
-      "ratio": 5.58,
+      "ratio": 5.55,
       "target": 4.5,
       "pass": true
     },
     {
       "mode": "dark",
       "role": "clay",
-      "background": "surface-raised",
-      "ratio": 4.98,
-      "target": 4.5,
-      "pass": true
-    },
-    {
-      "mode": "dark",
-      "role": "ochre",
-      "background": "bg",
-      "ratio": 6.05,
-      "target": 4.5,
-      "pass": true
-    },
-    {
-      "mode": "dark",
-      "role": "ochre",
-      "background": "surface",
-      "ratio": 5.54,
-      "target": 4.5,
-      "pass": true
-    },
-    {
-      "mode": "dark",
-      "role": "ochre",
       "background": "surface-raised",
       "ratio": 4.95,
       "target": 4.5,
@@ -345,9 +321,33 @@
     },
     {
       "mode": "dark",
+      "role": "ochre",
+      "background": "bg",
+      "ratio": 6.01,
+      "target": 4.5,
+      "pass": true
+    },
+    {
+      "mode": "dark",
+      "role": "ochre",
+      "background": "surface",
+      "ratio": 5.5,
+      "target": 4.5,
+      "pass": true
+    },
+    {
+      "mode": "dark",
+      "role": "ochre",
+      "background": "surface-raised",
+      "ratio": 4.91,
+      "target": 4.5,
+      "pass": true
+    },
+    {
+      "mode": "dark",
       "role": "moss",
       "background": "bg",
-      "ratio": 6.99,
+      "ratio": 7.0,
       "target": 4.5,
       "pass": true
     },
@@ -355,7 +355,7 @@
       "mode": "dark",
       "role": "moss",
       "background": "surface",
-      "ratio": 6.4,
+      "ratio": 6.41,
       "target": 4.5,
       "pass": true
     },
@@ -371,7 +371,7 @@
       "mode": "dark",
       "role": "patina",
       "background": "bg",
-      "ratio": 7.02,
+      "ratio": 7.01,
       "target": 4.5,
       "pass": true
     },
@@ -379,7 +379,7 @@
       "mode": "dark",
       "role": "patina",
       "background": "surface",
-      "ratio": 6.43,
+      "ratio": 6.42,
       "target": 4.5,
       "pass": true
     },
@@ -387,7 +387,7 @@
       "mode": "dark",
       "role": "patina",
       "background": "surface-raised",
-      "ratio": 5.74,
+      "ratio": 5.73,
       "target": 4.5,
       "pass": true
     },
@@ -395,7 +395,7 @@
       "mode": "dark",
       "role": "slate",
       "background": "bg",
-      "ratio": 6.84,
+      "ratio": 6.83,
       "target": 4.5,
       "pass": true
     },
@@ -403,7 +403,7 @@
       "mode": "dark",
       "role": "slate",
       "background": "surface",
-      "ratio": 6.26,
+      "ratio": 6.25,
       "target": 4.5,
       "pass": true
     },
@@ -411,7 +411,7 @@
       "mode": "dark",
       "role": "slate",
       "background": "surface-raised",
-      "ratio": 5.59,
+      "ratio": 5.58,
       "target": 4.5,
       "pass": true
     },
@@ -419,7 +419,7 @@
       "mode": "dark",
       "role": "heather",
       "background": "bg",
-      "ratio": 6.7,
+      "ratio": 6.69,
       "target": 4.5,
       "pass": true
     },
@@ -427,7 +427,7 @@
       "mode": "dark",
       "role": "heather",
       "background": "surface",
-      "ratio": 6.14,
+      "ratio": 6.13,
       "target": 4.5,
       "pass": true
     },
@@ -435,7 +435,7 @@
       "mode": "dark",
       "role": "heather",
       "background": "surface-raised",
-      "ratio": 5.48,
+      "ratio": 5.47,
       "target": 4.5,
       "pass": true
     },
@@ -443,7 +443,7 @@
       "mode": "dark",
       "role": "link",
       "background": "bg",
-      "ratio": 7.02,
+      "ratio": 7.01,
       "target": 4.5,
       "pass": true
     },
@@ -451,7 +451,7 @@
       "mode": "dark",
       "role": "link",
       "background": "surface",
-      "ratio": 6.43,
+      "ratio": 6.42,
       "target": 4.5,
       "pass": true
     },
@@ -459,7 +459,7 @@
       "mode": "dark",
       "role": "link",
       "background": "surface-raised",
-      "ratio": 5.74,
+      "ratio": 5.73,
       "target": 4.5,
       "pass": true
     },
@@ -467,7 +467,7 @@
       "mode": "dark",
       "role": "success",
       "background": "bg",
-      "ratio": 6.99,
+      "ratio": 7.0,
       "target": 4.5,
       "pass": true
     },
@@ -475,7 +475,7 @@
       "mode": "dark",
       "role": "success",
       "background": "surface",
-      "ratio": 6.4,
+      "ratio": 6.41,
       "target": 4.5,
       "pass": true
     },
@@ -491,7 +491,7 @@
       "mode": "dark",
       "role": "warning",
       "background": "bg",
-      "ratio": 6.05,
+      "ratio": 6.01,
       "target": 4.5,
       "pass": true
     },
@@ -499,7 +499,7 @@
       "mode": "dark",
       "role": "warning",
       "background": "surface",
-      "ratio": 5.54,
+      "ratio": 5.5,
       "target": 4.5,
       "pass": true
     },
@@ -507,7 +507,7 @@
       "mode": "dark",
       "role": "warning",
       "background": "surface-raised",
-      "ratio": 4.95,
+      "ratio": 4.91,
       "target": 4.5,
       "pass": true
     },
@@ -515,7 +515,7 @@
       "mode": "dark",
       "role": "error",
       "background": "bg",
-      "ratio": 6.1,
+      "ratio": 6.06,
       "target": 4.5,
       "pass": true
     },
@@ -523,47 +523,47 @@
       "mode": "dark",
       "role": "error",
       "background": "surface",
+      "ratio": 5.55,
+      "target": 4.5,
+      "pass": true
+    },
+    {
+      "mode": "dark",
+      "role": "error",
+      "background": "surface-raised",
+      "ratio": 4.95,
+      "target": 4.5,
+      "pass": true
+    },
+    {
+      "mode": "dark",
+      "role": "info",
+      "background": "bg",
+      "ratio": 6.83,
+      "target": 4.5,
+      "pass": true
+    },
+    {
+      "mode": "dark",
+      "role": "info",
+      "background": "surface",
+      "ratio": 6.25,
+      "target": 4.5,
+      "pass": true
+    },
+    {
+      "mode": "dark",
+      "role": "info",
+      "background": "surface-raised",
       "ratio": 5.58,
       "target": 4.5,
       "pass": true
     },
     {
       "mode": "dark",
-      "role": "error",
-      "background": "surface-raised",
-      "ratio": 4.98,
-      "target": 4.5,
-      "pass": true
-    },
-    {
-      "mode": "dark",
-      "role": "info",
-      "background": "bg",
-      "ratio": 6.84,
-      "target": 4.5,
-      "pass": true
-    },
-    {
-      "mode": "dark",
-      "role": "info",
-      "background": "surface",
-      "ratio": 6.26,
-      "target": 4.5,
-      "pass": true
-    },
-    {
-      "mode": "dark",
-      "role": "info",
-      "background": "surface-raised",
-      "ratio": 5.59,
-      "target": 4.5,
-      "pass": true
-    },
-    {
-      "mode": "dark",
       "role": "focus",
       "background": "bg",
-      "ratio": 6.05,
+      "ratio": 6.01,
       "target": 3,
       "pass": true
     },
@@ -571,7 +571,7 @@
       "mode": "dark",
       "role": "focus",
       "background": "surface",
-      "ratio": 5.54,
+      "ratio": 5.5,
       "target": 3,
       "pass": true
     },
@@ -579,7 +579,7 @@
       "mode": "dark",
       "role": "focus",
       "background": "surface-raised",
-      "ratio": 4.95,
+      "ratio": 4.91,
       "target": 3,
       "pass": true
     },
@@ -619,7 +619,7 @@
       "mode": "dark",
       "role": "on-clay-fill",
       "background": "clay-fill",
-      "ratio": 5.66,
+      "ratio": 5.67,
       "target": 4.5,
       "pass": true
     },
@@ -627,7 +627,7 @@
       "mode": "dark",
       "role": "on-ochre-fill",
       "background": "ochre-fill",
-      "ratio": 5.59,
+      "ratio": 5.63,
       "target": 4.5,
       "pass": true
     },
@@ -635,7 +635,7 @@
       "mode": "dark",
       "role": "on-moss-fill",
       "background": "moss-fill",
-      "ratio": 5.58,
+      "ratio": 5.57,
       "target": 4.5,
       "pass": true
     },
@@ -643,7 +643,7 @@
       "mode": "dark",
       "role": "on-patina-fill",
       "background": "patina-fill",
-      "ratio": 5.62,
+      "ratio": 5.63,
       "target": 4.5,
       "pass": true
     },
@@ -651,7 +651,7 @@
       "mode": "light",
       "role": "text",
       "background": "bg",
-      "ratio": 15.16,
+      "ratio": 15.17,
       "target": 4.5,
       "pass": true
     },
@@ -659,7 +659,7 @@
       "mode": "light",
       "role": "text",
       "background": "surface",
-      "ratio": 13.95,
+      "ratio": 13.96,
       "target": 4.5,
       "pass": true
     },
@@ -667,7 +667,7 @@
       "mode": "light",
       "role": "text",
       "background": "surface-raised",
-      "ratio": 12.73,
+      "ratio": 12.71,
       "target": 4.5,
       "pass": true
     },
@@ -691,7 +691,7 @@
       "mode": "light",
       "role": "text-body",
       "background": "surface-raised",
-      "ratio": 7.29,
+      "ratio": 7.28,
       "target": 4.5,
       "pass": true
     },
@@ -723,7 +723,7 @@
       "mode": "light",
       "role": "text-faint",
       "background": "bg",
-      "ratio": 3.85,
+      "ratio": 3.86,
       "target": 4.5,
       "pass": false
     },
@@ -747,7 +747,7 @@
       "mode": "light",
       "role": "clay",
       "background": "bg",
-      "ratio": 5.66,
+      "ratio": 5.67,
       "target": 4.5,
       "pass": true
     },
@@ -755,7 +755,7 @@
       "mode": "light",
       "role": "clay",
       "background": "surface",
-      "ratio": 5.21,
+      "ratio": 5.22,
       "target": 4.5,
       "pass": true
     },
@@ -771,7 +771,7 @@
       "mode": "light",
       "role": "ochre",
       "background": "bg",
-      "ratio": 5.62,
+      "ratio": 5.64,
       "target": 4.5,
       "pass": true
     },
@@ -779,7 +779,7 @@
       "mode": "light",
       "role": "ochre",
       "background": "surface",
-      "ratio": 5.17,
+      "ratio": 5.19,
       "target": 4.5,
       "pass": true
     },
@@ -787,7 +787,7 @@
       "mode": "light",
       "role": "ochre",
       "background": "surface-raised",
-      "ratio": 4.72,
+      "ratio": 4.73,
       "target": 4.5,
       "pass": true
     },
@@ -795,7 +795,7 @@
       "mode": "light",
       "role": "moss",
       "background": "bg",
-      "ratio": 5.53,
+      "ratio": 5.52,
       "target": 4.5,
       "pass": true
     },
@@ -803,7 +803,7 @@
       "mode": "light",
       "role": "moss",
       "background": "surface",
-      "ratio": 5.09,
+      "ratio": 5.08,
       "target": 4.5,
       "pass": true
     },
@@ -811,7 +811,7 @@
       "mode": "light",
       "role": "moss",
       "background": "surface-raised",
-      "ratio": 4.64,
+      "ratio": 4.62,
       "target": 4.5,
       "pass": true
     },
@@ -819,7 +819,7 @@
       "mode": "light",
       "role": "patina",
       "background": "bg",
-      "ratio": 5.51,
+      "ratio": 5.52,
       "target": 4.5,
       "pass": true
     },
@@ -827,7 +827,7 @@
       "mode": "light",
       "role": "patina",
       "background": "surface",
-      "ratio": 5.07,
+      "ratio": 5.08,
       "target": 4.5,
       "pass": true
     },
@@ -843,7 +843,7 @@
       "mode": "light",
       "role": "slate",
       "background": "bg",
-      "ratio": 5.56,
+      "ratio": 5.57,
       "target": 4.5,
       "pass": true
     },
@@ -851,7 +851,7 @@
       "mode": "light",
       "role": "slate",
       "background": "surface",
-      "ratio": 5.12,
+      "ratio": 5.13,
       "target": 4.5,
       "pass": true
     },
@@ -883,7 +883,7 @@
       "mode": "light",
       "role": "heather",
       "background": "surface-raised",
-      "ratio": 4.65,
+      "ratio": 4.64,
       "target": 4.5,
       "pass": true
     },
@@ -891,7 +891,7 @@
       "mode": "light",
       "role": "link",
       "background": "bg",
-      "ratio": 5.51,
+      "ratio": 5.52,
       "target": 4.5,
       "pass": true
     },
@@ -899,7 +899,7 @@
       "mode": "light",
       "role": "link",
       "background": "surface",
-      "ratio": 5.07,
+      "ratio": 5.08,
       "target": 4.5,
       "pass": true
     },
@@ -915,7 +915,7 @@
       "mode": "light",
       "role": "success",
       "background": "bg",
-      "ratio": 5.53,
+      "ratio": 5.52,
       "target": 4.5,
       "pass": true
     },
@@ -923,7 +923,7 @@
       "mode": "light",
       "role": "success",
       "background": "surface",
-      "ratio": 5.09,
+      "ratio": 5.08,
       "target": 4.5,
       "pass": true
     },
@@ -931,7 +931,7 @@
       "mode": "light",
       "role": "success",
       "background": "surface-raised",
-      "ratio": 4.64,
+      "ratio": 4.62,
       "target": 4.5,
       "pass": true
     },
@@ -939,7 +939,7 @@
       "mode": "light",
       "role": "warning",
       "background": "bg",
-      "ratio": 5.62,
+      "ratio": 5.64,
       "target": 4.5,
       "pass": true
     },
@@ -947,7 +947,7 @@
       "mode": "light",
       "role": "warning",
       "background": "surface",
-      "ratio": 5.17,
+      "ratio": 5.19,
       "target": 4.5,
       "pass": true
     },
@@ -955,7 +955,7 @@
       "mode": "light",
       "role": "warning",
       "background": "surface-raised",
-      "ratio": 4.72,
+      "ratio": 4.73,
       "target": 4.5,
       "pass": true
     },
@@ -963,7 +963,7 @@
       "mode": "light",
       "role": "error",
       "background": "bg",
-      "ratio": 5.66,
+      "ratio": 5.67,
       "target": 4.5,
       "pass": true
     },
@@ -971,7 +971,7 @@
       "mode": "light",
       "role": "error",
       "background": "surface",
-      "ratio": 5.21,
+      "ratio": 5.22,
       "target": 4.5,
       "pass": true
     },
@@ -987,7 +987,7 @@
       "mode": "light",
       "role": "info",
       "background": "bg",
-      "ratio": 5.56,
+      "ratio": 5.57,
       "target": 4.5,
       "pass": true
     },
@@ -995,7 +995,7 @@
       "mode": "light",
       "role": "info",
       "background": "surface",
-      "ratio": 5.12,
+      "ratio": 5.13,
       "target": 4.5,
       "pass": true
     },
@@ -1011,7 +1011,7 @@
       "mode": "light",
       "role": "focus",
       "background": "bg",
-      "ratio": 5.62,
+      "ratio": 5.64,
       "target": 3,
       "pass": true
     },
@@ -1019,7 +1019,7 @@
       "mode": "light",
       "role": "focus",
       "background": "surface",
-      "ratio": 5.17,
+      "ratio": 5.19,
       "target": 3,
       "pass": true
     },
@@ -1027,7 +1027,7 @@
       "mode": "light",
       "role": "focus",
       "background": "surface-raised",
-      "ratio": 4.72,
+      "ratio": 4.73,
       "target": 3,
       "pass": true
     },
@@ -1035,7 +1035,7 @@
       "mode": "light",
       "role": "border-control",
       "background": "bg",
-      "ratio": 3.85,
+      "ratio": 3.86,
       "target": 3,
       "pass": true
     },
@@ -1059,7 +1059,7 @@
       "mode": "light",
       "role": "selection-text",
       "background": "selection-bg",
-      "ratio": 10.94,
+      "ratio": 10.92,
       "target": 4.5,
       "pass": true
     },
@@ -1067,7 +1067,7 @@
       "mode": "light",
       "role": "on-clay-fill",
       "background": "clay-fill",
-      "ratio": 5.66,
+      "ratio": 5.67,
       "target": 4.5,
       "pass": true
     },
@@ -1075,7 +1075,7 @@
       "mode": "light",
       "role": "on-ochre-fill",
       "background": "ochre-fill",
-      "ratio": 5.59,
+      "ratio": 5.63,
       "target": 4.5,
       "pass": true
     },
@@ -1083,7 +1083,7 @@
       "mode": "light",
       "role": "on-moss-fill",
       "background": "moss-fill",
-      "ratio": 5.58,
+      "ratio": 5.57,
       "target": 4.5,
       "pass": true
     },
@@ -1091,21 +1091,25 @@
       "mode": "light",
       "role": "on-patina-fill",
       "background": "patina-fill",
-      "ratio": 5.62,
+      "ratio": 5.63,
       "target": 4.5,
       "pass": true
     }
   ],
   "method": {
     "space": "Oklab / OKLCH",
-    "description": "v0.4 makes all four original colors exact members of the neutral scale: ivory 0, body 400, taupe 500, charcoal 1000. Neutral 150, 200 and 300 interpolate in Oklab from retained neutral 100 to body at 400. Other v0.3 stops, accent-text assignments and solid fills are unchanged. Numbered steps are ordered choices, not equal lightness intervals.",
-    "gamutAdjustments": []
+    "description": "v0.5 adds 0.0015 to Oklab a and 0.006 to Oklab b for every v0.4 color, retaining Oklab lightness before sRGB rounding. Out-of-gamut colors reduce chroma at fixed lightness and hue. All four foundation colors remain exact neutral-scale aliases. Roles and stop numbers are unchanged.",
+    "gamutAdjustments": [
+      "#463205",
+      "#5B4409",
+      "#785800"
+    ]
   },
   "fills": {
-    "clay-solid": "#99422D",
-    "ochre-solid": "#735A23",
-    "moss-solid": "#506436",
-    "patina-solid": "#386560"
+    "clay-solid": "#9B4127",
+    "ochre-solid": "#75591C",
+    "moss-solid": "#536431",
+    "patina-solid": "#3B655C"
   },
   "anchorAliases": {
     "charcoal": "neutral-1000",

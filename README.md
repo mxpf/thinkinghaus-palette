@@ -1,6 +1,6 @@
 # Thinkinghaus palette
 
-Version 0.4 · September 29, 2026
+Version 0.5 · September 29, 2026
 
 Warm neutrals for reading, with deliberate accents for interaction. View the
 [palette and contrast examples](https://keeping.haus/thinkinghaus-palette/) or the
@@ -13,19 +13,23 @@ Warm neutrals for reading, with deliberate accents for interaction. View the
 - [ghosttyhaus.conf](ghosttyhaus.conf) — Ghostty terminal configuration.
 - [thinkinghaus.tokens.json](thinkinghaus.tokens.json) — values, aliases, roles, and measured contrast.
 
-## Original colors belong to the scale
+## Foundation colors belong to the scale
 
-| Original color | Neutral step | Hex |
+| Foundation color | Neutral step | Hex |
 | --- | --- | --- |
-| Ivory | 0 | #F1EDE3 |
-| Body | 400 | #ADADAA |
-| Taupe | 500 | #9A9285 |
-| Charcoal | 1000 | #1A1814 |
+| Ivory | 0 | #F4EDDF |
+| Body | 400 | #AFADA6 |
+| Taupe | 500 | #9C9281 |
+| Charcoal | 1000 | #1C1811 |
 
-The neutral scale has 15 steps, including its endpoints. Neutral 150–300 transitions
-from the retained warm 100 to the cooler body gray at 400. All other v0.3 neutral
-steps and accent values are retained. Numbers indicate order, not equal lightness
-intervals. The original color names remain available as aliases.
+The neutral scale has 15 steps, including its endpoints. Version 0.5 gently warms
+every v0.4 scale and solid fill, including the four foundation colors, while
+retaining the same role mappings and scale positions. Numbers indicate order,
+not equal lightness intervals. Existing color names remain available as aliases.
+
+The warmth adjustment is +0.0015 on Oklab a and +0.006 on Oklab b, with lightness
+retained before sRGB rounding. Out-of-gamut colors reduce chroma at fixed
+lightness and hue. The source JSON records the conversion and contrast results.
 
 Clay, ochre, moss, and patina are the core accents. Slate and heather are optional.
 Text accents use 400 on dark surfaces and 600 on light surfaces. Dedicated solid
@@ -53,7 +57,7 @@ The CSS contains colors only; it does not set typography or layout.
 Download `thinkinghaus.figma.json` and load the JSON file into **Tokens Studio for
 Figma**. This is a Tokens Studio import file, not a native `.fig` document.
 
-It contains a `primitives` set with all scales, fills, and original-color aliases,
+It contains a `primitives` set with all scales, fills, and foundation aliases,
 plus `dark` and `light` sets with semantic color aliases. Set `primitives` as the
 source and enable one mode at a time. Use **Styles & Variables → Export Styles &
 Variables** to create Figma colors. The included theme definitions also support
@@ -78,7 +82,7 @@ and 10% additional cell height. Paper Mono must be installed separately; change
 the font-family setting to use another font. No fonts are distributed here.
 
 Every terminal color maps to a named palette token. ANSI black now uses neutral
-850 (`#38352E`); ANSI white uses body/neutral 400, and bright white uses ivory/0.
+850 (`#3A352A`); ANSI white uses body/neutral 400, and bright white uses ivory/0.
 The existing terminal accent assignments are preserved. Web contrast checks do
 not certify arbitrary ANSI foreground/background combinations.
 
