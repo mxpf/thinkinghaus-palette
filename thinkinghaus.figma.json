@@ -596,7 +596,7 @@
         "description": "Dark mode; CSS: var(--th-heather)"
       },
       "link": {
-        "value": "{palette.patina-400}",
+        "value": "{palette.body}",
         "type": "color",
         "description": "Dark mode; CSS: var(--th-link)"
       },
@@ -760,7 +760,7 @@
         "description": "Light mode; CSS: var(--th-heather)"
       },
       "link": {
-        "value": "{palette.patina-600}",
+        "value": "{palette.neutral-800}",
         "type": "color",
         "description": "Light mode; CSS: var(--th-link)"
       },

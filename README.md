@@ -1,6 +1,6 @@
 # Thinkinghaus palette
 
-Version 0.5 · September 29, 2026
+Version 0.6 · October 2, 2026
 
 Warm neutrals for reading, with deliberate accents for interaction. View the
 [palette and contrast examples](https://keeping.haus/thinkinghaus-palette/) or the
@@ -35,6 +35,16 @@ Clay, ochre, moss, and patina are the core accents. Slate and heather are option
 Text accents use 400 on dark surfaces and 600 on light surfaces. Dedicated solid
 fills are paired with ivory text. Faint text is decorative only.
 
+## Standard links
+
+Version 0.6 makes standard links the same color as body copy: `#AFADA6` in dark
+mode and `#474135` in light mode. Keep prose links underlined, including visited
+links. Use `color: inherit` within body copy or the `--th-link` semantic token.
+Hover may move to the primary text color while retaining the underline; keyboard
+focus keeps its visible ochre outline. Navigation and button styling retain their
+existing hierarchy. Patina remains available as an accent, not the default link
+color. Scale values, all other roles, and terminal colors are unchanged.
+
 ## CSS
 
 Include `thinkinghaus.css`, then use the semantic properties:
@@ -44,7 +54,11 @@ body {
   background: var(--th-bg);
   color: var(--th-text-body);
 }
-a { color: var(--th-link); }
+a {
+  color: var(--th-link);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
 ```
 
 Dark is the default. Set `data-theme="light"` on the document root for light mode,
